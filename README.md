@@ -1,1 +1,1 @@
-# Pair-Programming
+# PairProgramming
